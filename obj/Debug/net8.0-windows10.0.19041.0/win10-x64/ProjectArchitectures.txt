@@ -1,0 +1,1 @@
+C:\Users\cam13469\Development\app-center-testing\AppCenterMauiAppTest\AppCenterMauiAppTest\AppCenterMauiAppTest.csproj;x64
